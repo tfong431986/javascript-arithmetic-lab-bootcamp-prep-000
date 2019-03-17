@@ -14,3 +14,9 @@ var n = 0
 function inc(n) {
   return n += 1
 }
+function dec(n) {
+  return n -=1
+}
+function makeInt(n) {
+  
+}
